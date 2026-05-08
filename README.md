@@ -1,3 +1,5 @@
 # Shell
 
-Shell Scripts for reference and practice sessions.
+Shell Scripts for reference and practice sessions
+
+.
